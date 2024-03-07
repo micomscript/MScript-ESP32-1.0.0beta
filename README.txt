@@ -1,43 +1,43 @@
-                                    
+â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡
 
-   MScript-ESP32S3-1.0.0beta”Å
+   MScript-ESP32S3-1.0.0betaç‰ˆ
 
-                                    
-
-
-¡MicomScriptŠT—v
-
-MicomScript‚Íƒ}ƒCƒRƒ“§Œä—pƒXƒNƒŠƒvƒgŒ¾Œê‚Å‚·B
-CŒ¾Œê‚ÉŽ—‚½§Œä\•¶‚ðŽ‚ÂƒXƒNƒŠƒvƒgŒ¾Œê‚ÉŽdã‚°‚Ü‚µ‚½B
+â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡
 
 
-œƒtƒ@ƒCƒ‹“à—e
+â– MicomScriptæ¦‚è¦
 
-	Edoc				ƒhƒLƒ…ƒƒ“ƒgƒtƒHƒ‹ƒ_
-	Elib				ƒ‰ƒCƒuƒ‰ƒŠƒtƒHƒ‹ƒ_
-	Esamples			ƒTƒ“ƒvƒ‹ƒXƒNƒŠƒvƒgƒtƒHƒ‹ƒ_
-	Esrc				ƒ\[ƒXƒR[ƒhƒtƒHƒ‹ƒ_
-	ELICENSE.txt		LICENSEƒtƒ@ƒCƒ‹	
-	EREADME.txt		READMEƒtƒ@ƒCƒ‹
+MicomScriptã¯ãƒžã‚¤ã‚³ãƒ³åˆ¶å¾¡ç”¨ã‚¹ã‚¯ãƒªãƒ—ãƒˆè¨€èªžã§ã™ã€‚
+Cè¨€èªžã«ä¼¼ãŸåˆ¶å¾¡æ§‹æ–‡ã‚’æŒã¤ã‚¹ã‚¯ãƒªãƒ—ãƒˆè¨€èªžã«ä»•ä¸Šã’ã¾ã—ãŸã€‚
 
 
-œƒ‰ƒCƒZƒ“ƒX
-@MITƒ‰ƒCƒZƒ“ƒX(LICENSE.txt‚É‹LÚ)
+â—ãƒ•ã‚¡ã‚¤ãƒ«å†…å®¹
+
+	ãƒ»doc				ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆãƒ•ã‚©ãƒ«ãƒ€
+	ãƒ»lib				ãƒ©ã‚¤ãƒ–ãƒ©ãƒªãƒ•ã‚©ãƒ«ãƒ€
+	ãƒ»samples			ã‚µãƒ³ãƒ—ãƒ«ã‚¹ã‚¯ãƒªãƒ—ãƒˆãƒ•ã‚©ãƒ«ãƒ€
+	ãƒ»src				ã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ãƒ•ã‚©ãƒ«ãƒ€
+	ãƒ»LICENSE.txt		LICENSEãƒ•ã‚¡ã‚¤ãƒ«	
+	ãƒ»README.txt		READMEãƒ•ã‚¡ã‚¤ãƒ«
+
+
+â—ãƒ©ã‚¤ã‚»ãƒ³ã‚¹
+ã€€MITãƒ©ã‚¤ã‚»ãƒ³ã‚¹(LICENSE.txtã«è¨˜è¼‰)
   This software is released under the MIT License, see LICENSE.txt.
 
-œƒoƒOƒŒƒ|[ƒg˜A—æ
-@ƒoƒO‚ð”­Œ©‚³‚ê‚½ê‡‚Ì˜A—æ‚ÍˆÈ‰º‚É‚È‚è‚Ü‚·B
-@‚½‚¾‚µA‘Î‰ž‚Å‚«‚é‚Æ‚ÍŒÀ‚è‚Ü‚¹‚ñB
+â—ãƒã‚°ãƒ¬ãƒãƒ¼ãƒˆé€£çµ¡å…ˆ
+ã€€ãƒã‚°ã‚’ç™ºè¦‹ã•ã‚ŒãŸå ´åˆã®é€£çµ¡å…ˆã¯ä»¥ä¸‹ã«ãªã‚Šã¾ã™ã€‚
+ã€€ãŸã ã—ã€å¯¾å¿œã§ãã‚‹ã¨ã¯é™ã‚Šã¾ã›ã‚“ã€‚
 
 	mscript@sendai-pc.ac.jp
 
 
-ì“àE‹Æ”\—ÍŠJ”­’ZŠú‘åŠwZ MicomScriptŠJ”­ƒ`[ƒ€
+å·å†…è·æ¥­èƒ½åŠ›é–‹ç™ºçŸ­æœŸå¤§å­¦æ ¡ MicomScripté–‹ç™ºãƒãƒ¼ãƒ 
 
-2022”N“xŠJ”­ƒƒ“ƒo[
-“c’† —˜‹ó@Ž²‰® Ž÷@’rƒmã —Y“o@’·Œ³ ŠC“n@‰ªŒ³ ˜aŽ÷@˜Q] Œõ‘¾˜Y@
-ŒÃ“c ¹–í@‘Šì ­˜a
+2022å¹´åº¦é–‹ç™ºãƒ¡ãƒ³ãƒãƒ¼
+ç”°ä¸­ åˆ©ç©ºã€€è»¸å±‹ æ¨¹ã€€æ± ãƒŽä¸Š é›„ç™»ã€€é•·å…ƒ æµ·æ¸¡ã€€å²¡å…ƒ å’Œæ¨¹ã€€æµªæ±Ÿ å…‰å¤ªéƒŽã€€
+å¤ç”° è–å¼¥ã€€ç›¸å· æ”¿å’Œ
 
-2023”N“xŠJ”­ƒƒ“ƒo[
-’†•ˆ¤—œ@Ž­“‡ãŠ²@‹v”ü“c—æˆß@“cãŠ@Ž›è“Ö@‰iˆäŒõ@Œ´“c‘ñ–²
-•Ÿ‰ªGW@‘Šì ­˜a
+2023å¹´åº¦é–‹ç™ºãƒ¡ãƒ³ãƒãƒ¼
+ä¸­æ­¦æ„›æ¢¨ã€€é¹¿å³¶ä¸Šå¹¹ã€€ä¹…ç¾Žç”°çŽ²è¡£ã€€ç”°ä¸Šå¶ã€€å¯ºå´Žæ•¦ã€€æ°¸äº•å…‰ã€€åŽŸç”°æ‹“æ­¦
+ç¦å²¡ç§€æ™ƒã€€ç›¸å· æ”¿å’Œ
